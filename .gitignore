@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Virtual Env
+*.venv
+*/venv/*
+venv/
+venv/ .vscode/
+
+# Ipynb Checkpoints
+.ipynb_checkpoints/*
+
