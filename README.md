@@ -90,6 +90,7 @@ The program will handle basic input validation to ensure you enter numeric value
 **Choosing an Operation:**
 Once you've entered valid numbers, the program will prompt you to select the operation you want to perform:
 ```Please type the operation that you would like to complete (+, -, *, /, √):```
+
 Enter the symbol for the desired operation:
 - '+' for addition
 - '-' for subtraction
