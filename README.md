@@ -18,10 +18,20 @@
   
   </ol>
 </details>
-
-## Background of the Ideal
 This is my first project
 Here we learn about how to setup git and how to push code in git. 
+
+## Background of the Ideal
+
+Building a Simple Calculator in Python.
+
+Make a Flowchart to solve the project.
+
+Develop a basic calculator that performs addition, subtraction, multiplication, and division.
+
+Understand Python syntax and basic concepts (variables, operators, functions).
+
+Using GitHub as Version Control to Initialize a Git repository for the project.
 
 ## Getting-Started
 So, we can start by creating new environment after make branch
@@ -55,9 +65,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hulkim_wise - [@hulkim_wise](https://x.com/hulkim_wise) - email@email_client.com
+Hulkim_wise - 
+[@hulkim_wise](https://x.com/hulkim_wise) 
+[LinkedIn](
 
-Project Link: [https://github.com/github_username/repo_name]
+Project Link: (https://github.com/Hulkim-Wise/IndividualProject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
