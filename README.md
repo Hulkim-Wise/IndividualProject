@@ -1,28 +1,32 @@
 # IndividualProject
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#background-of-the-ideal"Background of the Ideal</a>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="Setup the Environment"> Setup the Environment</a></li>
+        <li><a href="#setup the environment">Setup The Environment</a></li>
         <li><a href="#installation">Installation</a></li>
-       </ul>
-      </li>
-     <li><a href="#usage">Usage</a></li>          
-     <li><a href="#license">License</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-  <li><a href="#acknowledgement">Acknowledgement</a></li>
+    <li><a href="#acknowledgement">Acknowledgement</a></li>
   </ol>
 </details>
 This is my first project
 Here we learn about how to setup git and how to push code in git. 
 
-## Background of the Ideal
+## ABOUT THE PROJECT
 
 Building a Simple Calculator in Python.
 
@@ -33,6 +37,14 @@ Develop a basic calculator that performs addition, subtraction, multiplication, 
 Understand Python syntax and basic concepts (variables, operators, functions).
 
 Using GitHub as Version Control to Initialize a Git repository for the project.
+
+### Built With
+
+* [![Google Colab](colab.research.google.com)] [Colab-url]
+* [![Python](python.org)] [Python-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Getting-Started
 So, we can start by creating new environment after make branch
@@ -109,6 +121,7 @@ See you later.
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 ## License
 
