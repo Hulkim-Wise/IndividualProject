@@ -40,8 +40,8 @@ Using GitHub as Version Control to Initialize a Git repository for the project.
 
 ### Built With
 
-* [![Google Colab](colab.research.google.com)] [Colab-url]
-* [![Python](python.org)] [Python-url]
+* Colab
+* Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +126,7 @@ See you later.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Apache-2.0 license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
