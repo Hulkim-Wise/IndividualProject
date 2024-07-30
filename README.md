@@ -134,7 +134,7 @@ Distributed under the Apache-2.0 license. See `LICENSE.txt` for more information
 ## Contact
 
 Hulkim_wise - 
-[@hulkim_wise](https://x.com/hulkim_wise) 
+[Twitter](https://x.com/hulkim_wise) 
 [LinkedIn](https://www.linkedin.com/in/hakim-latif-94a41a280/)
 
 Project Link: (https://github.com/Hulkim-Wise/IndividualProject)
@@ -143,5 +143,5 @@ Project Link: (https://github.com/Hulkim-Wise/IndividualProject)
 
 ## Acknowledgement
 
-Dr. Fairoza Amira - [Github](https://github.com/FairozaAmira) - fairozaamira@gmail.com
+Dr. Fairoza Amira - [Github](https://github.com/FairozaAmira) - [Email](fairozaamira@gmail.com)
 
